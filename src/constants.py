@@ -1,0 +1,5 @@
+GAME_NAME = "Python Tetris Game"
+FRAME_WIDTH = 300
+FRAME_HEIGHT = 600
+
+FRAMERATE = 60
